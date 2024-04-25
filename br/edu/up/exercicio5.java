@@ -12,8 +12,6 @@ public class exercicio5 {
         Float valor = leitor.nextFloat();
         mamao.dizerValor(valor);
 
-        mamao.valorPrestacao(valor);
-
         System.out.printf("O valor divido em 5 prestações fica: %.2f", mamao.getCalculo());
     }
     

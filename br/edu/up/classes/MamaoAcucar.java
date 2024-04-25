@@ -8,11 +8,9 @@ public class MamaoAcucar {
         this.Valor = Valor;
     }
 
-    public void valorPrestacao(Float Valor){
-        this.Calculo = this.Valor / 5;
+    public Float getCalculo(){
+        return this.Calculo = this.Valor / 5;
     }
 
-    public Float getCalculo() {
-        return Calculo;
-    }
+    
 }
