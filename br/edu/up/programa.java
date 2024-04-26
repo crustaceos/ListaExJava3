@@ -7,8 +7,8 @@ public class programa {
         //exercicio2.executar();
         //exercicio3.executar();
         //exercicio4.executar();
-        exercicio5.executar();
-        //exercicio6.executar();
+        //exercicio5.executar();
+        exercicio6.executar();
         //exercicio7.executar();
         //exercicio8.executar();
         //exercicio9.executar();
