@@ -2,8 +2,8 @@ package br.edu.up.classes;
 
 public class ConsumoCarro {
     
-    private float distanciaCarro;
-    private float combustivelCarro;
+    private Float distanciaCarro;
+    private Float combustivelCarro;
 
 
     public void dizerDistancia(float distanciaCarro){
