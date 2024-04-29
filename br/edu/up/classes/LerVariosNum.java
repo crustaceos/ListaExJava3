@@ -15,6 +15,6 @@ public class LerVariosNum {
                 n++;
             }
         }
-        return String.format("A quantidade de numeros fora do intervalo 10 a 150 é de %d", n);
+        return String.format("A quantidade de numeros fora do intervalo 10 a 150 é %d", n);
     }
 }
